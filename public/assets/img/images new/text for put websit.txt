@@ -1,0 +1,24 @@
+
+
+ព័ត៌មានផ្ទាល់ខ្លួន InformationDetails
+AboutPage 
+ខ្ញុំបាទជាមន្ត្រីបច្ចេកទេសរបស់ឃ្លាំងឱសថកណ្ដាលនៃក្រសួងសុខាភិបាល និងជាអ្នកបញ្ចូលទិន្ន័យ​ ឱសថ​បរិក្ខារពេទ្យ ហើយក៏ជាអ្នករៀបចំឯកសារសម្រាប់បែង ចែកទៅគ្រប់បណ្ដាលខេត្ដ ទាំងការស្នើសុំឱសថ​បរិក្ខារពេទ្យ សម្រាប់ត្រីមាស ការស្នើសុំឱសថ​បរិក្ខារពេទ្យបន្ថែមត្រីមាស ការស្នើសុំឱសថ​បរិក្ខារពេទ្យកម្មវិធី និងការស្នើសុំឱសថ​បរិក្ខារពេទ្យបន្ទាន់។
+I am a technical officer of the Central Drug Warehouse of the Ministry of Health and a data entry officer for medical equipment and also a document preparer for distribution to all provinces, including requests for medical equipment for the quarter, requests for additional medical equipment for the quarter, requests for program medical equipment and requests for emergency medical equipment.
+
+wifepage
+អ្នកដែលឈរនៅក្បែរខ្ញុំជាប្រពន្ធរបស់ខ្ញុំ ហើយពួកយើងមានកូន៣នាក់។ សព្វថ្ងៃគាត់ធ្វើការនៅខេត្តកំពង់ធំ។
+
+ព័ត៌មានកូន
+information of child
+	have 3 child 
+
+ព័ត៌មានសុបូរ៍ទុម្ភ
+	នាងជាកូនស្រីទី១របស់ខ្ញុំ រៀនថ្នាក់ទី៤ នៅសាលាបឋមសិក្សាសំបូរ ស្ថិតនៅភូមិសំបូរឃុំសំបូរស្រុកប្រាសាទសំបូរខេត្តកំពង់ធំ។
+	She is my first daughter, studying in grade 4 at Sam Bor Primary School, located in Sambor Village, Sambor Commune, Prasat Sambor District, Kampong Thom Province.
+
+គាត់ជាកូនប្រុសរបស់ខ្ញុំ រៀនថ្នាក់ទី២ នៅសាលាបឋមសិក្សាសំបូរ ស្ថិតនៅភូមិសំបូរឃុំសំបូរស្រុកប្រាសាទសំបូរខេត្តកំពង់ធំ។
+He is my son, studying in grade 2 at Sam Bor Primary School, located in Sambor Village, Sambor Commune, Prasat Sambor District, Kampong Thom Province.
+
+នាងជាកូនស្រីទី២របស់ខ្ញុំ រៀនថ្នាក់មតី​នៅសាលាបឋមសិក្សាសំបូរ ស្ថិតនៅភូមិសំបូរឃុំសំបូរស្រុកប្រាសាទសំបូរខេត្តកំពង់ធំ។
+She is my second daughter. She is in kindergarten at Sam Bor Primary School, located in Sambor Village, Sambor Commune, Prasat Sambor District, Kampong Thom Province.
+
